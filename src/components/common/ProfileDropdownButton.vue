@@ -13,7 +13,7 @@
             <q-item v-ripple class="q-pl-none">
               <q-item-section avatar>
                 <q-avatar>
-                  <img src="/images/ALGOP.svg" />
+                  <img src="/images/NFT.svg" />
                 </q-avatar>
               </q-item-section>
               <q-item-section>
@@ -24,7 +24,7 @@
                   {{
                     $t('dashboard.tokenBalance', {
                       amount: formatAccountBalance(),
-                      token: 'ALGOP',
+                      token: 'NFT',
                     })
                   }}
                 </q-item-label>
@@ -49,7 +49,7 @@
                 <algo-button
                   :label="
                     $t('dashboard.buyToken', {
-                      token: '$ALGOP',
+                      token: '$NFT',
                     })
                   "
                   type="a"

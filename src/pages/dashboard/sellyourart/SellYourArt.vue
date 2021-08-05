@@ -171,8 +171,8 @@ export default class sellYourArt extends Vue {
     },
     {
       value: '3',
-      label: 'ALGOP',
-      img: '/images/ALGOP.svg',
+      label: 'NFT',
+      img: '/images/NFT.svg',
     },
     {
       value: '4',

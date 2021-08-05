@@ -3,7 +3,7 @@ import createCollectible from './create.collectible';
 
 export default {
   common: {
-    coinSymbol: '$ALGOP',
+    coinSymbol: '$NFT',
     bidBack: 'BidBack',
     placeABid: 'PLACE A BID',
   },

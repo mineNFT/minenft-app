@@ -3,7 +3,7 @@
   <div class="side-bar q-pa-lg">
     <div class="content">
       <q-img
-        src="../assets/icons/ALGOP.svg"
+        src="../assets/icons/NFT.svg"
         class="icon q-ml-sm q-mt-md"
       />
       <component

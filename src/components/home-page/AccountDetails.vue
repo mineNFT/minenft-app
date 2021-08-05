@@ -59,7 +59,7 @@
                 class="bg-primary"
                 :offset="[7, 7]"
               >
-                {{ $t(`dashboard.algop`) }} {{ balance }}
+                {{ $t(`dashboard.nft`) }} {{ balance }}
               </q-tooltip>
             </div>
             <algo-button
@@ -137,7 +137,7 @@
                 class="bg-primary"
                 :offset="[7, 7]"
               >
-                {{ $t(`dashboard.algop`) }} {{ balance }}
+                {{ $t(`dashboard.nft`) }} {{ balance }}
               </q-tooltip>
             </div>
             <algo-button

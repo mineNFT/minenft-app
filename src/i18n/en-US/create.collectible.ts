@@ -21,7 +21,7 @@ export default {
     },
     exampleText: 'Sample art by the artist',
     batchPrince: 'BATCH PRICE',
-    algoP: '($ALGOP)',
+    algoP: '($NFT)',
     remaining: 'REMAINING',
     minted: 'MINTED',
     goToArtist: ' Go to Artist',

@@ -1,7 +1,7 @@
 <template>
   <q-toolbar class="container q-pa-none header">
     <q-img
-      src="../assets/icons/ALGOP.svg"
+      src="../assets/icons/NFT.svg"
       class="btn-drawer q-ml-lg"
       :class="[leftDrawerOpen ? 'hide' : 'show']"
       @click="moveDrawer"
